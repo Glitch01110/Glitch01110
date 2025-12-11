@@ -9,9 +9,10 @@ I possess extensive practical experience in:
 *   **API Hacking**
 *   **Bug Bounty Programs**
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://giffiles.alphacoders.com/174/1744.gif" width="500" height="800" />
+<div align="center">
+  <img height="400" width="800" src="https://giffiles.alphacoders.com/174/1744.gif"/>
 </div>
+
 
 ### Technical Skills
 I am proficient in a range of essential languages and tools in the cybersecurity field:
@@ -49,8 +50,8 @@ Below is a list of the technologies and tools I use and master:
 </a>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://media.tenor.com/cRdGMKcCQKgAAAAd/hacker-anonymous.gif" width="500" height="800" />
+<div align="center">
+  <img height="400" width="800" src="https://media.tenor.com/cRdGMKcCQKgAAAAd/hacker-anonymous.gif"/>
 </div>
 
 ---
