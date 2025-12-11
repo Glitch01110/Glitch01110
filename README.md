@@ -10,7 +10,7 @@ I possess extensive practical experience in:
 *   **Bug Bounty Programs**
 
 <div align="center">
-  <img height="400" width="800" src="https://giffiles.alphacoders.com/174/1744.gif"/>
+  <img height="400" width="900" src="https://giffiles.alphacoders.com/174/1744.gif"/>
 </div>
 
 
@@ -51,7 +51,7 @@ Below is a list of the technologies and tools I use and master:
 </p>
 
 <div align="center">
-  <img height="400" width="800" src="https://media.tenor.com/cRdGMKcCQKgAAAAd/hacker-anonymous.gif"/>
+  <img height="400" width="900" src="https://media.tenor.com/cRdGMKcCQKgAAAAd/hacker-anonymous.gif"/>
 </div>
 
 ---
