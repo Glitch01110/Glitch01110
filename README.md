@@ -42,25 +42,21 @@ I hold the following certifications, which confirm my competence in the field:
   ### Socials
 
   <div align="center">
-
   <p align="center">
-  <a href="https://www.github.com/Glitch01110" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-  </picture>
-  </a>
+    <a href="https://www.github.com/Glitch01110" target="_blank" rel="noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+      </picture>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/Glitch_0x" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="32" height="32" alt="Telegram" title="Telegram" />
+    </a>
   </p>
+</div>
 
- <p align="center">
-  <a href="https://t.me/Glitch_0x" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="32" height="32" alt="Telegram" title="Telegram" />
-  </a>
-</p>
-
-      
-  </div>
   
 
 
