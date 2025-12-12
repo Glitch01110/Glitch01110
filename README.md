@@ -40,6 +40,9 @@ I hold the following certifications, which confirm my competence in the field:
   *   **Location:** (Anonymous) 🌍
  
   ### Socials
+
+  <div align="center">
+
   <p align="center">
   <a href="https://www.github.com/Glitch01110" target="_blank" rel="noreferrer">
   <picture>
@@ -56,6 +59,9 @@ I hold the following certifications, which confirm my competence in the field:
   </a>
 </p>
 
+      
+  </div>
+  
 
 
 
