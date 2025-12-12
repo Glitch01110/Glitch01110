@@ -52,7 +52,7 @@ I hold the following certifications, which confirm my competence in the field:
 
  <p align="center">
   <a href="https://t.me/Glitch_0x" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/521874/telegram.svg" width="32" height="32" alt="Telegram" title="Telegram" />
+    <img src="https://www.svgrepo.com/show/394493/telegram.svg" width="32" height="32" alt="Telegram" title="Telegram" />
   </a>
 </p>
 
