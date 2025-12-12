@@ -52,11 +52,10 @@ I hold the following certifications, which confirm my competence in the field:
 
  <p align="center">
   <a href="https://t.me/Glitch_0x" target="_blank" rel="noreferrer">
-    <svg width="32" height="32" viewBox="0 0 24 24" fill="currentColor">
-      <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.5 13.5l-5-2.5-3 1.5V9l7.5 4 2.5-1v4z"/>
-    </svg>
+    <img src="assets/telegram.svg" width="32" height="32" alt="Telegram" title="Telegram" />
   </a>
 </p>
+
 
 
 
