@@ -8,6 +8,7 @@ I possess extensive practical experience in:
 *   **Web Security**
 *   **API Hacking**
 *   **Bug Bounty Programs**
+*   **Developing Viruses and Ethical Hacking Tools using Python**
 
 <div align="center">
   <img height="400" width="900" src="https://giffiles.alphacoders.com/174/1744.gif"/>
@@ -37,8 +38,7 @@ I hold the following certifications, which confirm my competence in the field:
   ## 🌐 Get in Touch
   
   *   **Location:** (Anonymous) 🌍
-  *   **Email:** [Glitch_0x](mailto:t.me/Glitch_0x)
-  
+ 
   ### Socials
   <p align="center">
   <a href="https://www.github.com/Glitch01110" target="_blank" rel="noreferrer">
@@ -49,6 +49,18 @@ I hold the following certifications, which confirm my competence in the field:
   </picture>
   </a>
   </p>
+
+  <p align="center">
+    <a href="https://t.me/Glitch_0x" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" alt="Telegram"                        title="Telegram" />
+    </picture>
+    </a>
+  </p>
+
+  
 <!-- </div> -->
 
 <div align="center">
