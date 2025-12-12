@@ -50,15 +50,16 @@ I hold the following certifications, which confirm my competence in the field:
   </a>
   </p>
 
-  <p align="center">
-    <a href="https://t.me/Glitch_0x" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" alt="Telegram"                        title="Telegram" />
-    </picture>
-    </a>
-  </p>
+ <p align="center">
+  <a href="https://t.me/Glitch_0x" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/download/521874/telegram.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/download/521874/telegram.svg" />
+    <img src="https://www.svgrepo.com/download/521874/telegram.svg" width="32" height="32" alt="Telegram" title="Telegram" />
+  </picture>
+  </a>
+</p>
+
 
   
 <!-- </div> -->
