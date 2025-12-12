@@ -37,7 +37,7 @@ I hold the following certifications, which confirm my competence in the field:
   ## 🌐 Get in Touch
   
   *   **Location:** (Anonymous) 🌍
-  *   **Email:** [sesofox293@gmail.com](mailto:sesofox293@gmail.com) ✉️
+  *   **Email:** [Glitch_0x](mailto:t.me/Glitch_0x)
   
   ### Socials
   <p align="center">
