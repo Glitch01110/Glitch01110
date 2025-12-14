@@ -25,6 +25,7 @@ I am proficient in a range of essential languages and tools in the cybersecurity
 I hold the following certifications, which confirm my competence in the field:
 *   eJPT (eLearnSecurity Junior Penetration Tester)
 *   eWPT (eLearnSecurity Web Application Penetration Tester)
+*   eWPTX (eLearnSecurity Web Application Penetration Tester eXtreme)
 *   OSCP (Offensive Security Certified Professional)
 
 <!-- <div align="center">  -->
